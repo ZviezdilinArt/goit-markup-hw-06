@@ -842,14 +842,6 @@ img {
     resize: none;
 }
 
-.registration-form-message::placeholder {
-    font-size: 12px;
-    line-height: calc(16 / 12);
-    letter-spacing: 0.04em;
-    color: var(--secondary-modal-text-color);
-}
-
-
 .registration-form-agreement {
     display: flex;
     align-items: center;
